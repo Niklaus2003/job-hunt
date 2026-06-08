@@ -4,3 +4,4 @@ httpx
 firecrawl-py
 python-dotenv
 streamlit
+playwright
