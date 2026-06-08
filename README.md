@@ -117,6 +117,16 @@ python main.py --title "Data Analyst" --location "Pune" --experience "3" --sourc
 python main.py --help
 ```
 
+### 5. Streamlit Frontend
+
+If you prefer a browser-based UI, run the Streamlit app from the project root:
+
+```powershell
+streamlit run streamlit_app.py
+```
+
+Use the sidebar to set the job title, location, experience, sources, and page count. Results are displayed in the browser and can be downloaded as CSV.
+
 ---
 
 ## 📊 Output File Example
